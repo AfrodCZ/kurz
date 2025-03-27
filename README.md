@@ -8,5 +8,7 @@ Zde bude prezentováno co jsem se v kurzu naučil.
 4. Lekci 4: Podmínky
 5. Lekci 5: Cykly
 6. Lekci 6: Verzovací systémy 1
+7. Lekci 7: Funkce
+8. Lekci 8: Knihovny
 
-### Následující lekce je 7: Funkce
+### Následující lekce je 9: Projekt
