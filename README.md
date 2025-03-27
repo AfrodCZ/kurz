@@ -1,5 +1,5 @@
 # Kurz Python od RD
-Zde bude prezentováno co jsem se v kurzu naučil.
+Zde bude prezentováno co jsem se v kurzu naučil. Možná naučil :D
 
 ## Máme za sebou
 1. Lekci 1: Začínáme s Pythonem
